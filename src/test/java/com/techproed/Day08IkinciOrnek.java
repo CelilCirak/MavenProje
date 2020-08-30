@@ -49,6 +49,7 @@ public class Day08IkinciOrnek {
         aramaKutusu.sendKeys("elma");
         aramaKutusu.submit();
 
+
         try {
             Thread.sleep(6000);
         } catch (InterruptedException e) {
